@@ -5,7 +5,7 @@ A little script I wrote while serving in Keto Junior Secondary School in Keto Re
 I remember thinking and writing this piece of logic from scratch under four(4) minutes. Other members there serving thought I downloaded an App to solve it. 
 
 # 🎟️ How it works
-You just past in the array of scores and the algorithm will sort and return an array of object with the scores and its respective position.
+You just pass in the array of students score and the algorithm will sort and return an array of object with the scores and its respective positions.
 
 # ⏲️ Time Complexity
 Big O(N) - Linear time complexity
