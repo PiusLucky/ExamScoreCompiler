@@ -1,7 +1,7 @@
 # 🎨 ExamScoreCompiler
 A little script I wrote while serving in Keto Junior Secondary School in Keto Region,  Mokwa, Niger state.
 
-# ⏲️ Time taken to write
+# ⏲️ Time taken to code 
 I remember thinking and writing this piece of logic from scratch under four(4) minutes. Other members there serving thought I downloaded an App to solve it. 
 
 # 🎟️ How it works
