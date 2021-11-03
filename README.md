@@ -16,7 +16,7 @@ Big O(N) - Linear time complexity
 
 # 🤸 What I could have done better
   - Bring the Big O to 0(1) - constant time complexity
-  - I could have used a sorting algorithm instead of using the inbuilt <code>.sort</code>method.
+  - I could have used a sorting algorithm instead of using the built-in <code>.sort</code>method.
 
 
 
