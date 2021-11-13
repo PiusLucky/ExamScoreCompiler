@@ -11,7 +11,7 @@ You just pass in the array of students score and the algorithm will sort and ret
 Big O(N) - Linear time complexity
 
 # ✅ Key Strength
-  - Not mutating existing array input
+  - Not mutating existing array input (out-of-place algorithm)
   - Very fast.
 
 # 🤸 What I could have done better
